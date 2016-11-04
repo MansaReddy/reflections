@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+so that git knows where my files are.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+repository is the where different commits exist. Working directory is the live
+site. It seperates beta version from live/active version of the project.
